@@ -8,7 +8,7 @@ Most portfolio projects stop at CRUD. This one is built around core Node.js prim
 - **Dashboard:** [https://rate-keep-api.vercel.app/]
 - **API:** [https://rate-keep-api.onrender.com]
 
-![Ratekeep Dashboard](./public/image.png)
+![Ratekeep Dashboard](./client/public/image.png)
 
 ## ✨ Key Features
 - **API key management** — generate and track keys, each with its own usage counter
