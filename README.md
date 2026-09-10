@@ -5,10 +5,10 @@ Ratekeep is a backend-focused project built around a problem every real API deal
 Most portfolio projects stop at CRUD. This one is built around core Node.js primitives — `EventEmitter` for decoupled logging and `Streams` for constant-memory data export — the same patterns production systems like Stripe and Twilio use under the hood.
 
 ## 🚀 Live Demo
-- **Dashboard:** [your-vercel-link.vercel.app]
-- **API:** [your-render-link.onrender.com]
+- **Dashboard:** [https://rate-keep-api.vercel.app/]
+- **API:** [https://rate-keep-api.onrender.com]
 
-![Ratekeep Dashboard](./screenshot.png)
+![Ratekeep Dashboard](./public/image.png)
 
 ## ✨ Key Features
 - **API key management** — generate and track keys, each with its own usage counter
@@ -40,7 +40,7 @@ Most portfolio projects stop at CRUD. This one is built around core Node.js prim
 
 Clone and enter the project:
 ```bash
-git clone https://github.com/yourusername/ratekeep-api.git
+git clone https://github.com/koolkeyzs/ratekeep-api.git
 cd ratekeep-api
 ```
 
@@ -87,4 +87,4 @@ Polling wastes requests and adds latency to "real-time." SSE keeps a single open
 MIT
 
 ---
-*Built by [Your Name] — [portfolio link] · [LinkedIn] · [GitHub]*
+*Built by OSASOGIE KELVIN OSA-IZEKO — [www.linkedin.com/in/kelvin-osa-izeko-686ab930a] · [ https://github.com/koolkeyzs/]*
