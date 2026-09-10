@@ -40,7 +40,7 @@ Most portfolio projects stop at CRUD. This one is built around core Node.js prim
 
 Clone and enter the project:
 ```bash
-git clone https://github.com/koolkeyzs/ratekeep-api.git
+git clone https://github.com/yourusername/ratekeep-api.git
 cd ratekeep-api
 ```
 
